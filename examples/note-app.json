@@ -1,0 +1,16 @@
+{
+  "app_name": "NoteApp",
+  "features": [
+    "create_note",
+    "edit_note",
+    "delete_note",
+    "search_notes",
+    "categorize_notes"
+  ],
+  "architecture": "MVVM",
+  "ui_system": "Compose",
+  "min_sdk": 24,
+  "target_sdk": 34,
+  "gradle_version": "8.2.0",
+  "kotlin_version": "1.9.20"
+}

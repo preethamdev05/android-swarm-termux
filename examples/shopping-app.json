@@ -1,0 +1,18 @@
+{
+  "app_name": "ShopApp",
+  "features": [
+    "product_catalog",
+    "product_search",
+    "product_detail",
+    "shopping_cart",
+    "checkout",
+    "order_history",
+    "user_profile"
+  ],
+  "architecture": "MVI",
+  "ui_system": "Compose",
+  "min_sdk": 24,
+  "target_sdk": 34,
+  "gradle_version": "8.2.0",
+  "kotlin_version": "1.9.20"
+}

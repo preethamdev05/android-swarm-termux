@@ -1,0 +1,15 @@
+{
+  "app_name": "WeatherApp",
+  "features": [
+    "search_location",
+    "current_weather",
+    "five_day_forecast",
+    "favorite_locations"
+  ],
+  "architecture": "MVP",
+  "ui_system": "Views",
+  "min_sdk": 21,
+  "target_sdk": 34,
+  "gradle_version": "8.2.0",
+  "kotlin_version": "1.9.20"
+}
